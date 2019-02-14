@@ -144,6 +144,11 @@ SortPhotos grabs EXIF data from the photos/videos using the very excellent [Exif
 
 # ChangeLog (of major changes)
 
+### 02/14/2019
+
+- PEP 8 compliance of code
+- Migration to GPL
+
 ### 7/17/2015
 
 - @nueh fix for Python 2.5 (which you might be stuck with on a NAS for example).  
@@ -187,6 +192,8 @@ Previous features that were in sortphotos.py but have not yet been reincorporate
 
 # License
 
-Copyright (c) 2013, S. Andrew Ning.  All rights reserved.
+Copyright © 2013 S. Andrew Ning. All rights reserved. MIT License
 
-All code is licensed under [The MIT License](http://opensource.org/licenses/mit-license.php).
+Copyright © 2019 OpenCo Inc.   
+
+All code is licensed under [The GNU General Public License](https://www.gnu.org/licenses/gpl.txt).
